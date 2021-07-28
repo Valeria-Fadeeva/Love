@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-import os
 from time import sleep
+
 
 with open('heart.txt', 'r') as f:
     data = f.readlines()
